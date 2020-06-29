@@ -32,16 +32,25 @@
 			vertical-align: middle;
 			font-size: 16pt;
 			}
+
 		ul {
 		background: #7cb4d4;
 		margin-left: 20px;
 		}
+
+		a {
+		align: center;
+		}
+
 		.img1 {
 			align: left;
+			width: 33%
 		}
+
 		.table{
 			padding-bottom: 20px;
 			}
+
 		.tdh {
 			colspan: 4;
 			text-align: center;
