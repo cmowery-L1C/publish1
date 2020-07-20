@@ -27,19 +27,20 @@
 			font-size: 22pt;
 			}
 		h3 {
-			color: #7cb4d4;
+			color: #578ead;
 			text-align: center;
 			vertical-align: middle;
 			font-size: 16pt;
 			}
 
 		ul {
-		background: #7cb4d4;
+		background: #bad7e8;
 		margin-left: 20px;
 		}
 
 		a {
 		align: center;
+		color: #7cb4d4;
 		}
 
 		.img1 {
