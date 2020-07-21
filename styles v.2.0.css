@@ -6,6 +6,7 @@
 		p {
 			font-family: arial;
 			align: center;
+			text-color: gray;
 		}
 		body {
 			width: 100%;
@@ -36,10 +37,11 @@
 		ul {
 		background: #bad7e8;
 		margin-left: 20px;
+		align: center;
 		}
 		
 		li {
-			align: center;
+			text-color: darkgray;
 			}
 
 		a {
