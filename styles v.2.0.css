@@ -6,7 +6,7 @@
 		p {
 			font-family: arial;
 			align: center;
-			text-color: gray;
+			color: gray;
 		}
 		body {
 			width: 100%;
@@ -58,6 +58,7 @@
 			display: table;
 			margin: 0 auto;
 			padding-bottom: 20px;
+			align: center;
 			}
 
 		.tdh {
