@@ -37,6 +37,10 @@
 		background: #bad7e8;
 		margin-left: 20px;
 		}
+		
+		li {
+			align: center;
+			}
 
 		a {
 		align: center;
