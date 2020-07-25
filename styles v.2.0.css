@@ -43,7 +43,7 @@
 			}
 		
 		li {
-			text-color: darkgray;
+			color: darkgray;
 			}
 
 		a {
@@ -83,14 +83,14 @@
 		
 		.stars {
 		
-				}
+			}
 		.stars  em{
 			font-style: normal;
 			text-decoration: none;
 			color: lightgray;
 			
 			}
-		hr {
+		hr 	{
 			border-style: none;
 			border-top: 6px dotted lightgray;
 			padding-top: 30px;
@@ -99,7 +99,10 @@
 			}
 		.carousel-example-generic {
 			max-height: 50px;
-		}
+			}
+		.hiddentext{
+			
+			}
 
 		
 	</style>
