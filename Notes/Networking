@@ -3,6 +3,12 @@
 </head>
 <body>
 
+<h1>Types of Networks</h1>
+<h2>Local Area Networks (LANs)</h2>
+<h2>Wide Area Networks (WANs)</h2>
+
+
+
 <h1>Open Systems Interconnection Model (OSI)</h1><p>--is a conceptual model that characterises and standardises the communication functions of a telecommunication or computing system without regard to its underlying internal structure and technology</p>
 <h2>7. Application Layer</h2>
 <h2>6. Presentation Layer</h2>
@@ -20,6 +26,20 @@
 <h3>Ring Topology (archaic)</h3><p>--exactly what it sounds like. each computer is connected to two computers.</p>
 <p>unidirectional or bidirectional</p>
 <h3>Star Topology</h3><p>--central device is switch or hub</p>
+<p>central device is single point of failure</p>
+<h3>Mesh Topology</h3><p>--each device is connected to every other device by separate cabling</p>
+<p>used in wide area networks (WANs) for redundancy. Expensive install.</p>
+
+
+<h1>Note: most networks are a hybrid type of physical topology</h1>
+
+
+
+
+
+<p>why is NSS so daggone bad at technology?</p>
+
+
 
 
 body>
