@@ -28,6 +28,7 @@
 <h2>Physical Topologies</h2>
 <p>CSMA/CA = Carrier Sense Multiple Access / Collision Avoidance (wireless networks)</p>
 <p>CSMA/CD = Carrier Sense Multiple Access / Collision Detection (wired networks)</p>
+<p>Exponential Backoff--used by both ethernet and wireless networks to enable collision avoidance/detection and deconfliction</p>
 <h3>Bus Topology (archaic)</h3>
 <p>everything is connected by a single bus -- coaxial cable</p>
 <h3>Ring Topology (archaic)</h3><p>--exactly what it sounds like. each computer is connected to two computers.</p>
@@ -39,6 +40,10 @@
 
 
 <h1>Note: most networks are a hybrid type of physical topology</h1>
+
+
+<h2>Media Access Control (MAC) Address</h2>
+
 
 
 
