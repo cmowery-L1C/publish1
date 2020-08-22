@@ -1,0 +1,17 @@
+<!DocType html>
+<html>
+<head>
+
+<link rel="stylesheet" href="/publish1/styles v.2.0.css">
+
+</head>
+<body>
+
+<h1>Programming Languages</h1>
+<h2>CSS</h2>
+<h2>HTML</h2>
+<h2>JavaScript</h2>
+  <a href="https://github.com/rwaldron/idiomatic.js">JavaScript Style Guide</a><br>
+
+</body>
+</html>
