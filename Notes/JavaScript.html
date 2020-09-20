@@ -55,7 +55,11 @@
       <p></p><br>
       <p>nodemon app.js -- auto-updates server when code is updated</p><br>
       <p><a href="https://expressjs.com/en/starter/installing.html" target="_blank">Set Up Express</a></p>
-  <p>npm install body-parser</p>
-  <p>const bodyParser = require("body-parser"); -- install and require parser; enables body parsing from HTML</p>
+  <p><br>
+    npm install body-parser<br>
+    const bodyParser = require("body-parser");<br>
+    app.use(bodyParser.urlencoded({extended: true}));<br>
+    -- install and require parser; enables body parsing from HTML</p>
+  
 </body>
 </html>
